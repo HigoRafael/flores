@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: cornflowerblue;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,12 +11,12 @@ body {
 
 h1 {
     color: white;
-    font-size: 148px;
+    font-size: 75px;
     text-align: center;
 }
 
 button {
-    background-color: rgb(196, 126, 35);
+    background-color: orchid;
     color: white;
     border: none;
     border-radius: 10px;
